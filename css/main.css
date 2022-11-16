@@ -1,4 +1,9 @@
 body {
     background: rgb(0, 255, 149);
 }
-
+p {
+    color: rgb(0, 255, 128);
+}
+h2 {
+    font-size: 50;
+}
